@@ -1,0 +1,194 @@
+@media (max-width: 575.98px){
+    .navbar-nav{
+        padding-top: 15px;
+    }
+    .nav-link{
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    .nav-link::after{
+        display: none;
+    }
+    .info{
+        padding-left: 0;
+    }
+    .info li{
+        margin-bottom: 15px;
+        margin-left: 0;
+        text-align: center;
+    }
+    .banner {
+        padding: 50px 0;
+    }
+    .banner-img {
+        margin-top: 161px;
+        width: 100%;
+        margin-left: 0 ;
+    }
+    .language{
+        margin-left: 45px !important;
+    }
+    .reward {
+        margin: -50px auto;
+    }
+    .features {
+        margin: 50px auto;
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .coming-badge {
+        top: 0;
+        left: 0;
+        transform: rotate(0deg);
+    }
+    .product-items{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .journey-image {
+        margin-left: 0;
+        margin-top: 50px;
+    }
+    .expert {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, 0%);
+    }
+    .choose_card, .team_member {
+        margin-bottom: 20px;
+    }
+    .choose_card {
+        width: 350px !important;
+        height: 217px;
+        padding-left: 43px;
+        padding-top: 33.67px;
+    }
+    .choose_card img{
+        width: 40px;
+        height: 40px;
+    }
+    .brand_part .common_desc{
+        margin-right: 0;
+        margin-bottom: 50px;
+    }
+    .brand_part {
+        padding: 60px 0;
+    }
+    .footer-link h2 {
+        margin-top: 30px;
+    }
+    .footer-link li a {
+        margin-top: 5px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px){
+    .navbar-nav{
+        padding-top: 15px;
+    }
+    .nav-link{
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    .nav-link::after{
+        display: none;
+    }
+    .info{
+        padding-left: 0;
+    }
+    .info li{
+        margin-bottom: 15px;
+        margin-left: 0;
+        text-align: center;
+    }
+    .banner {
+        padding: 50px 0;
+    }
+    .banner-img {
+        margin-top: 161px;
+        width: 100%;
+    }
+    .reward {
+        margin: -50px auto;
+    }
+    .features {
+        margin: 50px auto;
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .coming-badge {
+        top: 0;
+        left: 0;
+        transform: rotate(0deg);
+    }
+    .product-items{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .category-a{
+        width: 172px;
+        height: 189px;
+    }
+    .journey-image {
+        margin-left: 0;
+        margin-top: 50px;
+    }
+    .expert {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, 0%);
+    }
+    .choose_card, .team_member {
+        margin-bottom: 20px;
+    }
+    .brand_part .common_desc{
+        margin-right: 0;
+        margin-bottom: 50px;
+    }
+    .brand_part {
+        padding: 60px 0;
+    }
+    .footer-link h2 {
+        margin-top: 30px;
+    }
+    .footer-link li a {
+        margin-top: 5px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px){
+    .banner {
+        padding: 100px 0;
+    }
+    .banner-img img{
+        width: 80%;
+    }
+    .features {
+        width: auto;
+        margin-bottom: 60px;
+    }
+    .coming-badge {
+        top: 17px;
+        left: -35%;
+    }
+    .team_member img{
+        width: 100%;
+    } 
+    .brand_part h3 {
+        font-size: 34px;
+    }
+    .brand_part .common_desc {
+        margin-right: 0;
+    }
+    .brand_part {
+        padding: 60px 0;
+    }
+}
+@media (min-width: 992px) and (max-width:1199.98px){
+    .navbar-brand img{
+        width: 80%;
+    }
+    .nav-link {
+        margin: 0 9px;
+    }
+    .reward {
+        margin-top: -41px;
+        margin-left: -53px;
+    }
+}
